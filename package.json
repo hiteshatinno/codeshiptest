@@ -1,0 +1,32 @@
+{
+  "name": "codeshiptest",
+  "version": "1.0.0",
+  "description": "This is testing for code shp deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshatinno/codeshiptest.git"
+  },
+  "keywords": [
+    "CodeShip",
+    "CI",
+    "CD",
+    "continues",
+    "integrtion",
+    "contnues",
+    "deployment"
+  ],
+  "author": "Hitesh Parikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiteshatinno/codeshiptest/issues"
+  },
+  "homepage": "https://github.com/hiteshatinno/codeshiptest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
